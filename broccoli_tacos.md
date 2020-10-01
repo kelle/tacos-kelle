@@ -1,9 +1,7 @@
 # Broccoli tacos
 
-This recipe is taken as an example from https://github.com/sinker/tacofancy/blob/master/full_tacos/broccoli_tacos.md.
-
-We are avid meat eaters, but these vegetarian tacos are one of our go-tos in
-Peru. If you can make the pickles with Peruvian aji amarillo, please do.
+This recipe is taken as an example from https://github.com/sinker/tacofancy/blob/master/full_tacos/cauliflower_tacos.md
+and replaced cauliflower with broccoli.
 
 - Roast broccoli
 - Pickled chilis and vegetables
